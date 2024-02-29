@@ -1,0 +1,321 @@
+.continer {
+    width: 1510px;
+    height: 3840px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+
+.box {
+    width: 1140px;
+    height: 46px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+p:hover {
+    color: black;
+
+}
+
+.b p {
+    color: #736D67;
+    font-size: 16px;
+    display: inline;
+    margin-left: 20px;
+
+}
+
+.b {
+    margin-left: 76px;
+    margin-top: -35px;
+    text-decoration: none;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.bu button {
+    width: 155px;
+    height: 46px;
+    color: white;
+    background-color: #DC780B;
+    border: solid #DC780B;
+    cursor: pointer;
+    transition: .5s;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: transparent;
+    color: black;
+    transition: .5s;
+
+}
+
+.bu {
+    margin-left: 910px;
+    margin-top: -31px;
+}
+
+.nb {
+    background-color: #ffffff;
+    width: 1334px;
+    height: 670px;
+    margin: 0 auto;
+}
+
+.mb h1 {
+    font-size: 48.83px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 48.83px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.nb {
+    margin-top: 140px;
+}
+
+.mb p {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.mb button {
+    width: 155px;
+    height: 46px;
+    color: white;
+    background-color: #DC780B;
+    border: solid #DC780B;
+    cursor: pointer;
+}
+
+.mb button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.by button {
+    width: 155px;
+    height: 46px;
+    background-color: white;
+    color: #DC780B;
+    border: solid #DC780B;
+    cursor: pointer;
+}
+
+.by button:hover {
+    background-color: #DC780B;
+    color: white;
+}
+
+.by {
+    margin-left: 190px;
+    margin-top: -46px;
+}
+
+.rasm {
+    margin-left: 630px;
+    margin-top: -400px;
+}
+
+.vb {
+    background-color: #ffffff;
+    width: 1334px;
+    height: 510px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+.gf img {
+    width: 555px;
+    height: 500px;
+
+}
+
+.ds p {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.ds h1 {
+    font-size: 31.25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ds button {
+    width: 155px;
+    height: 46px;
+    background-color: #DC780B;
+    color: #ffffff;
+    border: solid #DC780B;
+    cursor: pointer;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #ffffff;
+    color: black;
+}
+
+.ds {
+    margin-left: 700px;
+    margin-top: -430px;
+}
+
+.gt {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+}
+
+.box12 {
+    background-color: rgb(255, 255, 255);
+    width: 360px;
+    height: 446px;
+    margin-top: 180px;
+    margin-left: 100px;
+}
+
+input {
+    width: 36px;
+    height: 34px;
+    background-color: #DC780B;
+    color: #DC780B;
+    cursor: pointer;
+}
+
+i {
+    color: #DC780B;
+}
+
+.i {
+    margin-left: 230px;
+    margin-top: -30px;
+}
+
+
+
+
+.container1 {
+    display: flex;
+    gap: 10px;
+    margin-top: 300px;
+}
+
+.box13 {
+    background-color: rgb(255, 255, 255);
+    width: 360px;
+    height: 446px;
+    margin-top: 180px;
+    margin-left: 100px;
+}
+
+input {
+    width: 36px;
+    height: 34px;
+    color: #DC780B;
+    cursor: pointer;
+}
+
+i {
+    color: #DC780B;
+}
+
+.i1 {
+    margin-left: 230px;
+    margin-top: -30px;
+}
+
+.ham {
+    display: flex;
+    gap: 10px;
+    margin-top: 520px;
+    margin-left: -1420px;
+}
+
+.box14 {
+    background-color: rgb(255, 255, 255);
+    width: 360px;
+    height: 446px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.box15 {
+    background-color: rgb(255, 255, 255);
+    width: 360px;
+    height: 446px;
+    margin-top: -420px;
+    margin-left: 475px;
+}
+
+.ut {
+    background-color: rgb(255, 172, 131);
+    width: 1510px;
+    height: 448px;
+    margin-left: -575px;
+    margin-top: 50px;
+}
+
+.tu h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow: visible;
+}
+
+.tu input {
+    width: 750px;
+    height: 75px;
+    border-radius: 10px;
+    background-color: #FFF;
+    border: solid white;
+}
+
+.inpu input {
+    width: 156px;
+    height: 80px;
+    background-color: #DC780B;
+    border: solid #DC780B;
+    color: white;
+}
+
+.inpu {
+    margin-left: 978px;
+    margin-top: -81px;
+}
+
+.qp {
+    width: 1510px;
+    height: 429px;
+    background-color: #252525;
+    margin-left: -575px;
+    display: flex;
+}
+
+.bi p {
+    color: rgb(215, 215, 215);
+}
+
+.bi {
+    margin-left: 400px;
+    margin-top: 100px;
+    display: inline;
+    cursor: pointer;
+}
+
+.bt {
+    margin-left: 170px;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+.bt p {
+    color: rgb(215, 215, 215);
+}
